@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3983040051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4c19b7997643ed4d56abac8620d046f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2314fde69b6116e3997741969f56268e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/SpaceTiles/Tiles/BlueIndoor.asset
+Dependencies: []

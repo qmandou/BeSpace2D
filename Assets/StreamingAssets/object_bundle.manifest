@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1193902417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bc1ca41e615e1251c3eb23ea9758f31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89479c691dbab96768dea26dc3e8a661
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/SpaceObject/Door.asset
+- Assets/Resources/SpaceObject/Canon.asset
+- Assets/Resources/SpaceObject/Computer02.asset
+- Assets/Resources/SpaceObject/Armoire.asset
+- Assets/Resources/SpaceObject/Computer01.asset
+Dependencies: []
